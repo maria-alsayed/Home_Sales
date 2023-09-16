@@ -28,6 +28,14 @@ What is the average price for a four-bedroom house sold for each year?
 
 What is the average price of a home for each year it was built with three bedrooms and three bathrooms?
 
+<img width="1008" alt="Screenshot 2023-09-15 at 10 13 32 PM" src="https://github.com/maria-alsayed/Home_Sales/assets/130250635/3aaa457f-c61a-4e3c-9096-78ddf543c534">
+
+
+
+
+
+
+
 What is the average price of a home with three bedrooms, three bathrooms, and two floors each year, and is greater than or equal to 2,000 square feet?
 
 What is the "view" rating for homes costing more than or equal to $350,000?
