@@ -3,10 +3,16 @@
 
 
 
+
+
+
+
+
+
 This project uses PySpark and Spark SQL on Google Colab to determine critical metrics about home sales data. Then, Spark is utilized to create temporary views, partition the data, cache, and uncache a temporary table. Some of the data vital metric questions that were answered:
 
 What is the average price for a four-bedroom house sold for each year?
-
+<img width="900" alt="Screenshot 2023-09-15 at 10 13 09 PM" src="https://github.com/maria-alsayed/Home_Sales/assets/130250635/10e8c705-8643-42c2-88c0-1ada6b7d2565">
 
 
 
