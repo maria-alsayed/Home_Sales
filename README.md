@@ -37,6 +37,8 @@ What is the average price of a home for each year it was built with three bedroo
 
 
 What is the average price of a home with three bedrooms, three bathrooms, and two floors each year, and is greater than or equal to 2,000 square feet?
+
+
 <img width="965" alt="Screenshot 2023-09-15 at 10 13 53 PM" src="https://github.com/maria-alsayed/Home_Sales/assets/130250635/6827931e-80d6-488b-b774-95b51b9b67e9">
 
 
